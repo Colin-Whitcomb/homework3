@@ -49,7 +49,7 @@ Steps 3-5 were more straight forward. I added descriptions in alt attributes (in
 
 ## Authors 
 
-* **Colin Whitcomb**
-* [LinkedIn](https://www.linkedin.com/in/colin-whitcomb-b808301a6/)
+* **Colin Whitcomb**  [LinkedIn](https://www.linkedin.com/in/colin-whitcomb-b808301a6/)
+
 
 --- 
