@@ -28,7 +28,7 @@ In this assignment, our objectives included:
 
  To complete this assignment I worked sequentially through the list provided in the summary. In the code, I worked top down adding HTML semantic elements while adjusting the correlating CSS. Afterwards, I condensed some lines of CSS to be structured togeter (see screenshot 1). 
  
-Steps 3-5 were more straight forward. I added descriptions in alt attributes (including the background img, seen screenshot3), changed the footer h2 tag to h4, and changed the title to "Horiseon - Web Marketing."
+Steps 3-5 were more straight forward. I added descriptions in alt attributes (including the background img, seen in screenshot3), changed the footer h2 tag to h4, and changed the title to "Horiseon - Web Marketing."
 
 ---
 ## Screenshots
