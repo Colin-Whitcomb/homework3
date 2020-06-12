@@ -33,7 +33,7 @@ Steps 3-5 were more straight forward. I added descriptions in alt attributes (in
 ---
 ## Screenshots
 
-1. **Inline CSS classes with similar attributes.** 
+1. **In-line CSS classes with similar attributes for efficiency.** 
 
 ![Screenshot](assets/images/screenshot5.png)
 
